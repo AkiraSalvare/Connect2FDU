@@ -106,13 +106,23 @@
 我们**不推荐**四网合一改造前的宿舍不使用路由器。请尽量考虑[使用路由器](#2ba)。
 
 右键右下角的网络图标（也可能是“断网”图标/Wi-Fi图标），点击``网络与 Internet 设置``
+
 ![打开 网络与 Internet 设置](images/windows_open_internet_settings_1.png)
+
 点击``拨号``，点击``设置新连接``
+
 ![打开 拨号](images/windows_open_internet_settings_2.png)
+
 ![打开 设置新连接](images/windows_open_internet_settings_3.png)
+
 点击``连接到 Internet``
+
 ![打开 连接到 Internet](images/windows_open_internet_settings_4.png)
+
 点击``宽带(PPPoE)``
+
 ![打开 宽带(PPPoE)](images/windows_open_internet_settings_5.png)
-输入*线下办理宽带后**获得的账号密码，确认后即可上网。
+
+输入**线下办理宽带后**获得的账号密码，确认后即可上网。
+
 ![](images/windows_open_internet_settings_6.png)
